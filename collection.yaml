@@ -1,6 +1,14 @@
 
 # collections
 
+zztu:
+  FirstName: ZhengZhong
+  LastName: Tu
+  Affiliation: Texas A&M University
+  Webpage: https://vztu.github.io/
+  Category: CS
+  ResearchKey: CV, Multimodal
+
 mhchen:
   FirstName: Muhao
   LastName: Chen
